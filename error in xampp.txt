@@ -1,0 +1,7 @@
+1. open xampp
+2. start apache and Mysql
+3. if mysql give error
+4. open command prompt as administrator
+5. netstat -ano | findstr :<PORT>
+6. taskkill /PID <PID> /F
+7. or use this npx kill-port 3306

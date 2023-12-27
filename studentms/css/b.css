@@ -1,0 +1,7 @@
+.bannner1 {
+    background: url(https://hips.hearstapps.com/hmg-prod/images/berry-college-historic-campus-at-twilight-royalty-free-image-1652127954.jpg?crop=1.00xw:0.752xh;0.00160xw,0.120xh&resize=1200:*);
+    background-size: cover;
+    min-height: 650px;
+    padding-top: 0em !important;
+    text-align: center;
+}
