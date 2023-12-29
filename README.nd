@@ -15,10 +15,8 @@
 7.Run the script http://localhost/studentms (frontend)
 
 Credential for admin panel :
-
 Username: admin
 Password: Test@123
-
 
 
 (B).  Problem Statement: 
@@ -28,11 +26,6 @@ only in one department. For each department, there is a head, and an instructor 
 be head of only one department. Each instructor can take any number of courses, 
 and a course can be taken by only one instructor. A student can enroll for any 
 number of courses and each course can have any number of students
-
-
-
-
-
 
 
 (C). Brief Working Details of the Project:
